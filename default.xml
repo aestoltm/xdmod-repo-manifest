@@ -23,7 +23,7 @@
     <project
         name="xdmod"
         groups="xdmod"
-        remote="plotly"
+        remote="aestoltm"
         revision="appkernels_plotly"
     />
 
