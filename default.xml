@@ -24,7 +24,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revision="appkernels_plotly"
+        revision="xdmod_plotly_conversion"
     />
 
     <!--
