@@ -36,6 +36,8 @@
     <project
         name="xdmod-appkernels"
         groups="appkernels"
+        remote="aestoltm"
+        revision="xdmod_appkernels_plotly_conversion"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
     </project>
@@ -57,6 +59,8 @@
     <project
         name="xdmod-xsede"
         groups="xsede"
+        remote="aestoltm"
+        revision="xdmod_xsede_conversion"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
