@@ -44,6 +44,8 @@
     <project
         name="xdmod-supremm"
         groups="supremm"
+        remote="aestoltm"
+        revision="xdmod_supremm_plotly_conversion"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
     </project>
