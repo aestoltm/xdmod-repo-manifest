@@ -10,6 +10,12 @@
         alias="plotly"
         fetch="https://github.com/aestoltm"
         />
+    <remote
+        name="jpwhite4"
+        alias="plotly"
+        fetch="https://github.com/jpwhite4"
+        />
+
     <default
         remote="ubccr"
         revision="xdmod11.0"
