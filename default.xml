@@ -20,8 +20,8 @@
         fetch="https://github.com/rorymcclenahan"
     />
     <remote
-        name"aestoltm"
-        alias="stoltman"
+        name="aestoltm"
+        alias="aestoltm"
         fetch="https://github.com/aestoltm"
     />
     <!--
