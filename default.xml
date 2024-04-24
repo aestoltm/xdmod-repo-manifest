@@ -4,23 +4,26 @@
         name="ubccr"
         alias="upstream"
         fetch="https://github.com/ubccr"
-        />
-    <remote
-        name="aestoltm"
-        alias="plotly"
-        fetch="https://github.com/aestoltm"
-        />
-    <remote
-        name="jpwhite4"
-        alias="plotly"
-        fetch="https://github.com/jpwhite4"
-        />
-
+    />
     <default
         remote="ubccr"
         revision="xdmod11.0"
     />
-
+    <remote
+        name="connersaeli"
+        alias="fork"
+        fetch="https://github.com/connersaeli"
+    />
+    <remote
+        name="rory"
+        alias="rory"
+        fetch="https://github.com/rorymcclenahan"
+    />
+    <remote
+        name"aestoltm"
+        alias="stoltman"
+        fetch="https://github.com/aestoltm"
+    />
     <!--
     Open XDMoD
 
@@ -29,8 +32,8 @@
     <project
         name="xdmod"
         groups="xdmod"
-        remote="aestoltm"
-        revision="xdmod_plotly_conversion"
+        remote="rory"
+        revision="user-manual"
     />
 
     <!--
@@ -42,18 +45,21 @@
     <project
         name="xdmod-appkernels"
         groups="appkernels"
-        remote="aestoltm"
-        revision="xdmod_appkernels_plotly_conversion"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
     </project>
     <project
         name="xdmod-supremm"
         groups="supremm"
-        remote="jpwhite4"
-        revision="plotly_efficiency"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
+    </project>
+    <project
+        name="xdmod-ondemand"
+        groups="ondemand"
+        revision="main"
+    >
+        <linkfile src="." dest="xdmod/open_xdmod/modules/ondemand" />
     </project>
 
     <project
@@ -68,19 +74,10 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="aestoltm"
-        revision="xdmod_xsede_conversion"
+        revision="user-manual"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
-
-    <project
-        name="xdmod-ondemand"
-        groups="ondemand"
-        revision="main"
-    >
-        <linkfile src="." dest="xdmod/open_xdmod/modules/ondemand" />
-    </project>
-
     <!--
     Related Tools
 
