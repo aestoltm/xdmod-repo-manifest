@@ -8,7 +8,12 @@
     <default
         remote="ubccr"
         revision="xdmod11.0"
-    />
+        />
+    <remote
+        name="aestoltm"
+        alias="aestoltm"
+        fetch="https://github.com/aestoltm"
+        />
 
     <!--
     Open XDMoD
@@ -18,6 +23,8 @@
     <project
         name="xdmod"
         groups="xdmod"
+        remote="aestoltm"
+        revision="replace_jquery"
     />
 
     <!--
