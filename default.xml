@@ -24,7 +24,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revision="replace_jquery"
+        revision="plotly_fixes"
     />
 
     <!--
@@ -36,8 +36,6 @@
     <project
         name="xdmod-appkernels"
         groups="appkernels"
-        remote="aestoltm"
-        revision="replace_jquery"
 
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
@@ -45,8 +43,6 @@
     <project
         name="xdmod-supremm"
         groups="supremm"
-        remote="aestoltm"
-        revision="replace_jquery"
 
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
