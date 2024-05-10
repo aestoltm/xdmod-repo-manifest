@@ -36,12 +36,18 @@
     <project
         name="xdmod-appkernels"
         groups="appkernels"
+        remote="aestoltm"
+        revision="replace_jquery"
+
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
     </project>
     <project
         name="xdmod-supremm"
         groups="supremm"
+        remote="aestoltm"
+        revision="replace_jquery"
+
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/supremm" />
     </project>
