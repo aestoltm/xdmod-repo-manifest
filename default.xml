@@ -23,8 +23,6 @@
     <project
         name="xdmod"
         groups="xdmod"
-        remote="aestoltm"
-        revision="plotly_fixes"
     />
 
     <!--
