@@ -24,7 +24,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revision="summary_charts"
+        revision="jquery_partial_revert"
     />
 
     <!--
