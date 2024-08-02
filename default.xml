@@ -64,8 +64,6 @@
     <project
         name="xdmod-xsede"
         groups="xsede"
-        remote="aestoltm"
-        revision="laminas_pdf_test"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
