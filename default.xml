@@ -24,7 +24,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revision="bar_chart_fix"
+        revision="marker_bugfix"
     />
 
     <!--
