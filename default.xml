@@ -24,7 +24,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revision="plotly_pie_chart_margin"
+        revision="hover_bug"
     />
 
     <!--
