@@ -69,6 +69,13 @@
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
+    
+    <project
+        name="xdmod-cloudbank"
+        groups="main"
+    >
+        <linkfile src="." dest="xdmod/open_xdmod/modules/cloudbank" />
+    </project>
 
     <!--
     Related Tools
