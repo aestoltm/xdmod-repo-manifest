@@ -10,6 +10,11 @@
         revision="refs/tags/v11.0.0-1.0"
     />
 
+    <remote
+        name="aestoltm"
+        alias="aestoltm"
+        fetch="https://github.com/aestoltm"
+        />
     <!--
     Open XDMoD
 
