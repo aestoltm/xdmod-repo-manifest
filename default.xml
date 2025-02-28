@@ -18,7 +18,8 @@
     <project
         name="xdmod"
         groups="xdmod"
-        revision="main"
+        remote="aestoltm"
+        revision="refactor_date_ticklabels"
     />
 
     <!--
