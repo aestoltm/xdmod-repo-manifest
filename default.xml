@@ -15,6 +15,11 @@
         alias="aestoltm"
         fetch="https://github.com/aestoltm"
         />
+    <remote
+        name="github-ryanrath"
+        alias="ryanrath"
+        fetch="https://github.com/ryanrath"
+    />
     <!--
     Open XDMoD
 
@@ -64,6 +69,15 @@
         revision="refs/tags/v11.0.0-p1"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
+    </project>
+
+    <project
+            name="xdmod-cloudbank"
+            groups="cloudbank"
+            remote="github-ryanrath"
+            revision="merge-udt-and-afr"
+    >
+        <linkfile src="." dest="xdmod/open_xdmod/modules/cloudbank"/>
     </project>
     <!--
     Related Tools
