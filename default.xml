@@ -16,6 +16,12 @@
         fetch="https://github.com/aestoltm"
         />
     <remote
+        name="tim"
+        alias="tim"
+        fetch="https://github.com/t-scholtz"
+        />
+
+    <remote
         name="github-ryanrath"
         alias="ryanrath"
         fetch="https://github.com/ryanrath"
@@ -28,8 +34,8 @@
     <project
         name="xdmod"
         groups="xdmod"
-        remote="aestoltm"
-        revision="main"
+        remote="tim"
+        revision="usage_linking"
     />
 
     <!--
