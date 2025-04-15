@@ -71,7 +71,8 @@
     <project
         name="xdmod-xsede"
         groups="xsede"
-        revision="refs/tags/v11.0.0-p1"
+        remote="aestoltm"
+        revision="cloud_spend_ingestor"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
