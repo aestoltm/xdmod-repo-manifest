@@ -14,8 +14,7 @@
         name="aestoltm"
         alias="aestoltm"
         fetch="https://github.com/aestoltm"
-        />
-
+    />
     <remote
         name="github-ryanrath"
         alias="ryanrath"
