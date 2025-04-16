@@ -4,6 +4,10 @@
         name="ubccr"
         alias="upstream"
         fetch="https://github.com/ubccr"
+        />
+    <default
+        remote="ubccr"
+        revision="main"
     />
     <remote
         name="aestoltm"
@@ -24,7 +28,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revison="copy_usage_linking"
+        revision="copy_usage_linking"
     />
 
     <!--
