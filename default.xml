@@ -34,7 +34,8 @@
     <project
         name="xdmod"
         groups="xdmod"
-        revison="main"
+        remote="tim"
+        revison="usage_linking"
     />
 
     <!--
