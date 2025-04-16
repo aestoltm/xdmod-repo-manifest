@@ -7,7 +7,7 @@
     />
     <default
         remote="ubccr"
-        revision="main"
+        revision="refs/tags/v11.0.1-1"
     />
 
     <remote
@@ -41,6 +41,7 @@
     <project
         name="xdmod-appkernels"
         groups="appkernels"
+        revision="refs/tags/v11.0.0-1.0"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/appkernels" />
     </project>
