@@ -28,7 +28,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revision="copy_usage_linking"
+        revision="usage_linking_xdmod11.0"
     />
 
     <!--
