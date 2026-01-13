@@ -27,6 +27,8 @@
     <project
         name="xdmod"
         groups="xdmod"
+        remote="aestoltm"
+        revision="wordwrap_long_legends"
     />
 
     <!--
