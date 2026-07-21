@@ -28,7 +28,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revision="tutorial_login"
+        revision="job_viewer_remove_null_traces"
     />
 
     <!--
