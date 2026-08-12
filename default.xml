@@ -69,7 +69,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="aestoltm"
-        revision="cloud_spend_ingestor"
+        revision="resource_recommendation_data_endpoint"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
