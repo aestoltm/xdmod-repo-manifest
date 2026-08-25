@@ -28,7 +28,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revision="job_viewer_remove_null_traces"
+        revision="cider_resource_specs"
     />
 
     <!--
@@ -69,7 +69,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="aestoltm"
-        revision="resource_recommendation_data_endpoint"
+        revision="resource_specs_with_rdr2"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
