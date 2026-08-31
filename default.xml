@@ -69,7 +69,7 @@
         name="xdmod-xsede"
         groups="xsede"
         remote="aestoltm"
-        revision="resource_specs_with_rdr2"
+        revision="main"
     >
         <linkfile src="." dest="xdmod/open_xdmod/modules/xsede" />
     </project>
