@@ -28,7 +28,7 @@
         name="xdmod"
         groups="xdmod"
         remote="aestoltm"
-        revision="cider_resource_specs"
+        revision="rest_ingestor_refactor"
     />
 
     <!--
